@@ -1,6 +1,35 @@
-### ¡Bienvenido/a a mi perfil! 👋
+###
+<h1 align = "center">
+¡Bienvenido/a a mi perfil! 👋 
+    <width = "25"></h1>
+    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Renzo+Miguel+Castillo+Lanza+;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
+</p>
 
+<p align = "center"><em>Me llamo Renzo, tengo 24 años y soy estudiante de tercer año de la Tecnicatura en Desarrollo de Software.
+Soy una persona proactiva que se está educando en busca de nuevos desafíos en el mundo de la programación y en la busca de mi primer empleo IT. </em></p>
 
+<br></br>
+
+</p><h2 align = "center">LENGUAJES Y HABILIDADES: </h2>
+
+<div align = "center">
+• Java
+• HTML
+• CSS
+• MySql
+• Git •
+    
+</div>
+
+<div align = "center">
+
+<a href="https://cdn-icons-png.flaticon.com/512/226/226777.png" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
+<a href="https://www.svgrepo.com/show/303251/mysql-logo.svg" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 
 
 <br></br>
