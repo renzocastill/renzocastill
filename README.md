@@ -1,4 +1,4 @@
-###
+
 <h1 align = "center">
 ¡Bienvenido/a a mi perfil! 👋 
     <width = "25"></h1>
@@ -8,7 +8,7 @@
 </p>
 
 <p align = "center"><em>Me llamo Renzo, tengo 24 años y soy estudiante de tercer año de la Tecnicatura en Desarrollo de Software.
-Soy una persona proactiva que se está educando en busca de nuevos desafíos en el mundo de la programación y en la busca de mi primer empleo IT. </em></p>
+Soy una persona proactiva que se está educando en busca de nuevos desafíos en el mundo de la programación y en la busca de mi primer empleo IT. <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
 
 <br></br>
 
