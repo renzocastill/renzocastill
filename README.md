@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Renzo+Miguel+Castillo+Lanza+;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align = "center"><em>Me llamo Renzo, tengo 24 años y soy estudiante de tercer año de la Tecnicatura en Desarrollo de Software.
-Soy una persona proactiva que se está educando en busca de nuevos desafíos en el mundo de la programación y en la busca de mi primer empleo IT. <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
+<p align = "center"><em>Me llamo Renzo, tengo 25 años y estoy a pocas materias de terminar la carrera Tecnicatura en Desarrollo de Software.
+Soy una persona responsable que se está educando en busca de nuevos desafíos en el mundo de la programación y en la busca de mi primer empleo IT. <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
 
 <br></br>
 
