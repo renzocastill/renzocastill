@@ -1,28 +1,30 @@
 
 <h1 align = "center">
-¡Bienvenido/a a mi perfil! 👋 
+¡Welcome to my profile! 👋 
     <width = "25"></h1>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Renzo+Miguel+Castillo+Lanza+;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align = "center"><em>Me llamo Renzo, tengo 26 años y estoy una materia de terminar la carrera Tecnicatura Superior en Desarrollo de Software.
-Soy una persona responsable y proactiva, me estoy formando constantemente en busca de nuevos desafíos en el mundo del software para estar a la altura en mi primer empleo IT. He participado y realizado proyectos con tecnologías como Java, Spring Boot, HTML - CSS, actualmente estoy realizando la carrera Full Stack en JavaScript de CoderHouse. 
+<p align = "center"><em>My name is Renzo, I'm 26 years old and I am currently in the final stage of my Development Software Degree.
+I am responsible and proactive person, constantly training myself in search of new challenges in the software world to be ready for my first IT job. I have participated in projects using technologies such as Java, Spring Boot, SQL, HTML5, CSS3, JavaScript, and I am currently pursuing the Full Stack JavaScript Career at CoderHouse.
     
-A continuación dejo link de mi último proyecto para Maldita Peluquerías: https://maldita-peluqueria.infinityfreeapp.com/<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
+Below is a link to my latest project for Maldita Peluquerías: https://maldita-peluqueria.infinityfreeapp.com/<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
 
 <br></br>
 
-</p><h2 align = "center">LENGUAJES Y HABILIDADES: </h2>
+</p><h2 align = "center">TECHNOLOGIES & TOOLS: </h2>
 
 <div align = "center">
 • Java
-• Spring
+• Spring Boot
 • JDBC
+• Postman
 • HTML
 • CSS
-• MySql
+• JavaScript
+• MySQL
 • Git & GitHub •
     
 </div>
@@ -43,6 +45,7 @@ A continuación dejo link de mi último proyecto para Maldita Peluquerías: http
 <p align="center">
     <a href="https://www.linkedin.com/in/renzom-castillo/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:renzocastilloml@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+    <a href="mailto:miguelanza99@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
 
 <!--
