@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Renzo+Miguel+Castillo+Lanza+;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align = "center"><em>My name is Renzo, I'm 26 years old and I am currently in the final stage of my Development Software Degree.
+<p align = "center"><em>My name is Renzo, I'm 26 years old and I have completed my degree as a Higher Technician in Software Development.
 I am responsible and proactive person, constantly training myself in search of new challenges in the software world to be ready for my first IT job. I have participated in projects using technologies such as Java, Spring Boot, SQL, HTML5, CSS3, JavaScript, and I am currently pursuing the Full Stack JavaScript Career at CoderHouse.
     
 Below is a link to my latest project for Maldita Peluquerías: https://maldita-peluqueria.infinityfreeapp.com/<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
@@ -20,10 +20,12 @@ Below is a link to my latest project for Maldita Peluquerías: https://maldita-p
 • Java
 • Spring Boot
 • JDBC
+• POO
 • Postman
 • HTML
 • CSS
 • JavaScript
+• React JS
 • MySQL
 • Git & GitHub •
     
