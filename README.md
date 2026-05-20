@@ -30,7 +30,7 @@ A complete REST API built following layered architecture and backend best practi
 - ✅ Input validations and exception management
 - ✅ Endpoint testing with Postman
 
-🔗 [View Repository](#) <!-- reemplazá # con el link real -->
+🔗 [(https://github.com/renzocastill/smedico-practica-springboot)](#) <!-- reemplazá # con el link real -->
 
 ---
 
@@ -43,7 +43,7 @@ A full-stack web app integrating frontend and backend through REST APIs.
 - ✅ Data persistence with MySQL (JPA/Hibernate)
 - ✅ Scalable structure with separation of concerns
 
-🔗 [View Repository](#)
+🔗 [(https://github.com/renzocastill/DesarrolloWebCoder)](#)
 
 ---
 
