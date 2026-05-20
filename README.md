@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=45&lines=Renzo+Miguel+Castillo+Lanza;Software+Engineer;Backend+%7C+Java+%7C+Spring+Boot+%7C+Node+JS;Frontend+%7C+HTML+%7C+CSS+%7C+React+JS+Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=45&lines=Renzo+Miguel+Castillo+Lanza;Software+Engineer;Backend+%7C+Java+%7C+Spring+Boot+%7C+Node+JS;Frontend+%7C+HTML+%7C+CSS+%7C+React+JS;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <em>
     My name is Renzo, I'm 26 years old and I recently graduated as a Higher Technician in Software Development.<br/>
-    I'm a Full Stack Developer with a focus on backend, passionate about building reliable and scalable systems.<br/>
+    I'm a Software Engineer with a focus on backend, passionate about building reliable and scalable systems.<br/>
     I have experience developing REST APIs, working with relational databases, and applying clean architecture principles.<br/>
     Currently expanding my skills with the Full Stack JavaScript career at CoderHouse.
   </em>
