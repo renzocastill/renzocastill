@@ -1,53 +1,120 @@
+<h1 align="center">¡Welcome to my profile! 👋</h1>
 
-<h1 align = "center">
-¡Welcome to my profile! 👋 
-    <width = "25"></h1>
-    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Renzo+Miguel+Castillo+Lanza+;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=45&lines=Renzo+Miguel+Castillo;Full+Stack+Developer;Backend+%7C+Java+%7C+Spring+Boot;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align = "center"><em>My name is Renzo, I'm 26 years old and I have completed my degree as a Higher Technician in Software Development.
-I am responsible and proactive person, constantly training myself in search of new challenges in the software world to be ready for my first IT job. I have participated in projects using technologies such as Java, Spring Boot, SQL, HTML5, CSS3, JavaScript, and I am currently pursuing the Full Stack JavaScript Career at CoderHouse.
-    
-Below is a link to my latest project for Maldita Peluquerías: https://maldita-peluqueria.infinityfreeapp.com/<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5ZTJiam1ueHo0bDJjcG85OHN0a3Bnd2t0NzBoZTNvZmEybmhmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Ofirbmc95GWvKTpWP/giphy.gif" width = "25"> <br></br> </em></p>
+<p align="center">
+  <em>
+    My name is Renzo, I'm 26 years old and I recently graduated as a Higher Technician in Software Development.<br/>
+    I'm a Full Stack Developer with a focus on backend, passionate about building reliable and scalable systems.<br/>
+    I have experience developing REST APIs, working with relational databases, and applying clean architecture principles.<br/>
+    Currently expanding my skills with the Full Stack JavaScript career at CoderHouse.
+  </em>
+</p>
 
-<br></br>
+---
 
-</p><h2 align = "center">TECHNOLOGIES & TOOLS: </h2>
+## 🚀 Featured Projects
 
-<div align = "center">
-• Java
-• Spring Boot
-• JDBC
-• POO
-• Postman
-• HTML
-• CSS
-• JavaScript
-• React JS
-• MySQL
-• Git & GitHub •
-    
+### 🏥 Smedico REST API
+> **Java · Spring Boot · JPA · MySQL · Git**
+
+A complete REST API built following layered architecture and backend best practices.
+
+- ✅ Full CRUD with Spring Data JPA
+- ✅ DTO pattern (Request/Response) to decouple business logic
+- ✅ Centralized error handling with `@RestControllerAdvice`
+- ✅ Input validations and exception management
+- ✅ Endpoint testing with Postman
+
+🔗 [View Repository](#) <!-- reemplazá # con el link real -->
+
+---
+
+### 🌐 FullStack Web Application
+> **JavaScript · Spring Boot · MySQL · HTML5 · CSS3**
+
+A full-stack web app integrating frontend and backend through REST APIs.
+
+- ✅ Client-server integration via Fetch API
+- ✅ Data persistence with MySQL (JPA/Hibernate)
+- ✅ Scalable structure with separation of concerns
+
+🔗 [View Repository](#)
+
+---
+
+### 💈 Maldita Peluquerías – Website
+> **HTML5 · CSS3 · JavaScript**
+
+Landing page developed for a real client, fully deployed and live.
+
+- ✅ Responsive design
+- ✅ Deployed on a live hosting environment
+
+🔗 [Live Demo](https://maldita-peluqueria.infinityfreeapp.com/)
+
+---
+
+### 🗂️ Customer CRUD System
+> **Java · Java Swing · JDBC · SQL**
+
+Desktop application with full CRUD functionality.
+
+- ✅ Database connection via JDBC
+- ✅ Object-Oriented Programming principles applied
+- ✅ Modular and maintainable design
+
+🔗 [View Repository](#)
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<div align = "center">
+---
 
-<a href="https://cdn-icons-png.flaticon.com/512/226/226777.png" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-<a href="https://www.svgrepo.com/show/303251/mysql-logo.svg" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=renzocastill&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzocastill&layout=compact&theme=dark&hide_border=true" />
+</div>
 
-<br></br>
-    
-</p><h2 align="center">Contacto:</h2><p align="left"> 
-  
+---
+
+## 📬 Contact
+
 <p align="center">
-    <a href="mailto:renzocastilloml@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
-    <a href="https://www.linkedin.com/in/renzom-castillo/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
-    <a href="mailto:miguelanza99@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+  <a href="mailto:renzocastilloml@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/renzom-castillo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/renzocastill">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:miguelanza99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <!--
