@@ -34,6 +34,25 @@ A complete REST API built following layered architecture and backend best practi
 
 ---
 
+### 📝 Ensolvers Notes App (Full Stack Challenge)
+> **Java · Spring Boot · PostgreSQL · React · Vite · Axios · REST API**
+
+A full-stack notes management application built as part of a technical challenge.  
+It follows a SPA architecture with a separated backend (Spring Boot REST API) and frontend (React).
+
+- ✅ Create, edit and delete notes
+- ✅ Archive and unarchive notes
+- ✅ List active and archived notes separately
+- ✅ REST API built with Spring Boot
+- ✅ PostgreSQL persistence using Spring Data JPA
+- ✅ Layered architecture (Controller, Service, Repository)
+- ✅ React SPA frontend with Vite
+- ✅ Axios integration with backend API
+
+🔗 Private repository (technical assessment)
+
+---
+
 ### 🌐 FullStack Web Application
 > **JavaScript · Spring Boot · MySQL · HTML5 · CSS3**
 
